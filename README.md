@@ -18,4 +18,4 @@ The airline is interested in predicting whether a future customer would be satis
 For more details 🔗🔗 View the Notebook 📓
 
 ### **License** :
-This Repository is under BSD 3-Clause License
+This Repository is under MIT License
